@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">SmartBrain</string>
+
+    //home_layout
+    <string name="application_name">Smart Brain</string>
+    <string name="enter_btn">ENTER</string>
+
+    //login_layout
+    <string name="enter_text">ENTER YOUR NAME</string>
+    <string name="name_text">Pleases enter your name here!</string>
+    <string name="save_btn">SAVE</string>
+    <string name="guest_btn">GUEST</string>
+
+    //mode_select_layout
+    <string name="select_text">SELECT MODE</string>
+    <string name="easy_btn">EASY</string>
+    <string name="normal_btn">NORMAL</string>
+    <string name="hard_btn">HARD</string>
+
+    //ready_layout
+    <string name="are_you_ready_text">R U</string>
+    <string name="ready_btn">READY</string>
+
+    //user_layout
+    <string name="greeting_text">Hi</string>
+    <string name="score_btn">.</string>
+    <string name="start_btn">START</string>
+
+    //score_layout
+    <string name="your_score_text">Your Score</string>
+    <string name="date_text">Date</string>
+    <string name="score_text">Score</string>
+    <string name="time_text">Time</string>
+    <string name="date_record">.</string>
+    <string name="score_record">.</string>
+    <string name="time_record">.</string>
+    <string name="back_btn">BACK</string>
+
+    //easy_layout
+    <string name="easy_question">.</string>
+    <string name="easy_ans_btn1">.</string>
+    <string name="easy_ans_btn2">.</string>
+
+    //normal_layout
+    <string name="normal_question">.</string>
+    <string name="normal_ans_btn1">.</string>
+    <string name="normal_ans_btn2">.</string>
+
+    //hard_layout
+    <string name="hard_question">.</string>
+    <string name="hard_ans_btn1">.</string>
+    <string name="hrad_ans_btn2">.</string>
+
+    <string name="time_btn">.</string>
+
+    //result_layout
+    <string name="time_result_text">Your time!</string>
+    <string name="score_result">.</string>
+    <string name="correct_result_text">.</string>
+    <string name="okay_btn">OK!</string>
+
+</resources>
